@@ -1,55 +1,64 @@
-{
-	"id": [{
-			"id": 1
-		},
-		{
-			"id": 2
-		},
-		{
-			"id": 3
-		},
-		{
-			"id": 4
-		},
-		{
-			"id": 5
-		}
-	],
-	"Name": [{
-			"institution": "Prasadi Academy"
-
-		},
-		{
-			"institution": "St Xavier's College"
-
-		},
-		{
-			"institution": "Kathmandu Model College"
-
-		},
-		{
-			"institution": "St Mary's High School"
-
-		},
-		{
-			"institution": "Sainik Awasiya Mahavidyalaya"
-
-		}
-	],
-	"Location": [{
-			"location": "Lalitpur"
-		},
-		{
-			"location": "Maitighar"
-		},
-		{
-			"location": "Bagbazar"
-		},
-		{
-			"location": "Jawalekhel"
-		},
-		{
-			"location": "Bhaktapur"
-		}
+[
+	{
+	"id": "1",
+	"institution": "Prasadi Academy",
+	"location": "Lalitpur",
+	"image": "https://nepalireporter.com/wp-content/uploads/2019/04/misc86.jpg"
+	},
+	{
+	"id": "2",
+	"institution": "St Xavier's College",
+	"location": "Maitighar",
+	"image": "https://nepalireporter.com/wp-content/uploads/2019/04/St-Xavier-College.jpg"
+	},
+	{
+	"id": "1",
+	"institution": "Kathmandu Model College",
+	"location": "Bagbazar",
+	"image": [
+   {
+      "id":"1",
+      "institution":"Prasadi Academy",
+      "location":"Lalitpur",
+      "image":"https://nepalireporter.com/wp-content/uploads/2019/04/misc86.jpg"
+   },
+   {
+      "id":"2",
+      "institution":"St Xavier's College",
+      "location":"Maitighar",
+      "image":"https://nepalireporter.com/wp-content/uploads/2019/04/St-Xavier-College.jpg"
+   },
+   {
+      "id":"1",
+      "institution":"Kathmandu Model College",
+      "location":"Bagbazar",
+      "image":"https://nepalireporter.com/wp-content/uploads/2019/04/Kathmandu-Model-College.jpg"
+   },
+   {
+      "id":"1",
+      "institution":"St Mary's High School",
+      "location":"Jawalekhel",
+      "image":"https://nepalireporter.com/wp-content/uploads/2019/04/St-Marys-High-School.jpg"
+   },
+   {
+      "id":"1",
+      "institution":"Sainik Awasiya Mahavidyalaya",
+      "location":"Bhaktapur",
+      "image":"https://nepalireporter.com/wp-content/uploads/2019/04/Sainik-Awasiya-Mahavidyalaya.jpg"
+   }
+]"https://nepalireporter.com/wp-content/uploads/2019/04/Kathmandu-Model-College.jpg"
+	},
+	{
+	"id": "1",
+	"institution": "St Mary's High School",
+	"location": "Jawalekhel",
+	"image": "https://nepalireporter.com/wp-content/uploads/2019/04/St-Marys-High-School.jpg"
+	},
+	{
+	"id": "1",
+	"institution": "Sainik Awasiya Mahavidyalaya",
+	"location": "Bhaktapur",
+	"image": "https://nepalireporter.com/wp-content/uploads/2019/04/Sainik-Awasiya-Mahavidyalaya.jpg"
+	}
+	
 	]
-}
