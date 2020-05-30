@@ -1,42 +1,40 @@
-[
-  {
-    "id": "1",
+{
+  "id": [
+    {"id": 1},
+    {"id": 2},
+    {"id": 3},
+    {"id": 4},
+    {"id": 5}
+  ],
+  "Name": [
+    {
     "institution": "Prasadi Academy",
-    "location":"Lalitpur"
-  },
-  {
-     "id": "2",
+    
+   },
+    {
     "institution": "St Xavier's College",
-    "location":"Maitighar"
-  },
-  {
-     "id": "3",
+    
+    },
+    {
     "institution": "Kathmandu Model College",
-    "location":"Bagbazar"
-  },
-  {
-     "id": "4",
+   
+    },
+    {
     "institution": "St Mary's High School",
-    "location":"Jawalekhel"
-  },
-  {
-     "id": "5",
+    
+    },
+    {
     "institution": "Sainik Awasiya Mahavidyalaya",
-    "location":"Bhaktapur"
-  },
-  {
-     "id": "6",
-    "institution": "NCCS Higher Secondary School",
-    "location":"Paknajol"
-  },
-  {
-     "id": "7",
-    "institution": "Xavier Academy",
-    "location":"Lazimpat"
-  },
-  {
-     "id": "8",
-    "institution": "ST.Lawrence College",
-    "location":"Chabahill"
+   
   }
-  ]
+    ],
+  "Location": [
+    {"location":"Lalitpur"},
+    {"location":"Maitighar"},
+    {"location":"Bagbazar"},
+    {"location":"Jawalekhel"},
+    {"location":"Bhaktapur"},
+    ]
+}
+  
+  
